@@ -67,7 +67,7 @@ for more information.
   * Content negotiation
   * Executable for generating applications quickly
 
-## Docs & Community
+## Docds & Community
 
   * [Website and Documentation](https://expressjs.com/) - [[website repo](https://github.com/expressjs/expressjs.com)]
   * [GitHub Organization](https://github.com/expressjs) for Official Middleware & Modules
